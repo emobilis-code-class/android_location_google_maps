@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="coordinates">coordinates ...</string>
+    <string name="address_label">address ..</string>
+    <string name="show_on_map">Show On Map</string>
+</resources>
